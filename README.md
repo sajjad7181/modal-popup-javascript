@@ -13,10 +13,10 @@ This is a simple JavaScript project that shows how to create and toggle a **moda
 ## 📁 Project Structure
 modal-project/
 │
-├── index.html
-├── style.css
-├── app.js
-└── README.md
+- index.html
+- style.css
+- app.js
+- README.md
 
 ## 🚀 Live Demo
 ![Live Demo](./assets/demo.gif)
